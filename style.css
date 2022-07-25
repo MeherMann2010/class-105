@@ -1,0 +1,28 @@
+body {
+background-color:antiquewhite;
+}
+
+.heading {
+
+border-color: aquamarine;
+background-color: white;
+width: 80%;
+font-size: 25;
+}
+
+.name_of_objects {
+    color: grey;
+}
+
+#B1 {
+
+    background-color:#5999b6;
+    color: #172131;
+}
+
+
+#B2 {
+
+    background-color:#5999b6;
+    color: #172131;
+}
